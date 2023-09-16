@@ -1,0 +1,17 @@
+{
+    "name": "nasergh777/validation",
+    "description": "a package for validation",
+    "autoload": {
+        "psr-4": {
+            "Nasergh777\\Validation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "naser ghasemi"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
