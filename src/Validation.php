@@ -1,5 +1,6 @@
 <?php
 
+namespace NaserValidation;
 class Validation{
     public function OddorEven($number){
 
